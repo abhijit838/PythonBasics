@@ -31,7 +31,8 @@ Lets start with small small codes snipate directly from python shell:
     Database access
     XML/JSON handaling
     Numeric data handaling with NumPy.
-    
+    --------------------------------------
+    If possible then algorithms like linear, nonlinear data structures.
     
     
     
