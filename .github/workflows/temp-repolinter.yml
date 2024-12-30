@@ -1,6 +1,9 @@
 
 name: QuIC Organization Repolinter
 
+on:
+  workflow_dispatch:
+
 jobs:
   repolinter:
     runs-on: ubuntu-latest
